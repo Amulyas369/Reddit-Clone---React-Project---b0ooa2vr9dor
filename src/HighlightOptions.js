@@ -1,5 +1,5 @@
 import React from 'react'
-import "./HilightsOptions.css"
+import "./HighlightOptions.css"
 
 function HighlightOptions({Icon,text}) {
   return (
